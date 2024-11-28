@@ -1,4 +1,3 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
-
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+# 欢迎来到七绝宇宙
+这个demo是给七绝，尤其是七绝核心成员编辑、上传和下载文件的存储库。任何人不得私自删除他人的文件。
+本存储库为公开，仅做七绝开放文件分享和备忘存储，不对任何损失负责。
